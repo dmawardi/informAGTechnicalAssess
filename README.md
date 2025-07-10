@@ -1,4 +1,4 @@
-# pump
+## informAGTechnicalAssessment: Pump Application
 
 This is a basic Vue scaffold used to complete a technical assessment for a job interview.
 
@@ -31,4 +31,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# informAGTechnicalAssess
